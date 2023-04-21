@@ -1,11 +1,14 @@
-import '../generic/reset.css'
-import './App.css';
+import './styles/generic/reset.css'
+import Sobre from './objects/Sobre'
+import Logo from './objects/Logo'
 
 function App() {
   return (
-    <a href='#' className='action'>Sobre</a>
-
-    );
+    <div>
+    <Logo />
+    <Sobre />
+    </div>
+  )
 }
 
 export default App;
