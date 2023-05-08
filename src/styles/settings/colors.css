@@ -1,5 +1,6 @@
 :root{
-    --color-negative: #3A4042
+    --color-negative: #3a4042;
+    --color-light-negative:  rgb(58, 64, 66, 0.1);
     --color-zero: #FFFFFF;
     --color-first: #F25A70;
 
