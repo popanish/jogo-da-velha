@@ -1,5 +1,5 @@
 import React from 'react'
-import Collab from '../../imagens/logo.png'
+import Collab from '../../img/logo.png'
 
 const Logo = () =>{
     return (<img src={Collab} alt='logo'/>)
