@@ -1,7 +1,7 @@
 import React from "react";
 import './style.css'
-import playerX from '../ ../ imagens/playerX'
-import playerO from '../../ ../imagens/playerO'
+import playerX from '../../img/player-x.png'
+import playerO from '../../img/player-o.png'
 const Player = () => (
 
     <button className="player">
