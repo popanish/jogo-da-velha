@@ -1,7 +1,7 @@
 import React from "react";
 import './style.css'
-import player0 from '../../imagens/Circle.png'
-
+import playerX from '../ ../ imagens/playerX'
+import playerO from '../../ ../imagens/playerO'
 const Player = () => (
 
     <button className="player">
