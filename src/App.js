@@ -1,15 +1,12 @@
 import React from 'react';
-import Card from './objects/Card';
-import Player from './objects/Player';
 import Header from '../src/components/Header'
+import Hashtag from './components/Hashtag';
 
 function App() {
   return (
     <>
     <Header/>
-    <Card/>
-    <Player player= "x"/>
-      
+    <Hashtag/>
     </>
   )
 }
